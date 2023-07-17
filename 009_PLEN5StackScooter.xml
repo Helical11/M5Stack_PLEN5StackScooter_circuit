@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\ElectronicCircuit\009_PLEN5StackScooter\009_PLEN5StackScooter.kicad_sch</source>
+    <date>2023/06/18 20:47:31</date>
+    <tool>Eeschema 7.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>009_PLEN5StackScooter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>00_DIY_MyFavorite:BatteryHolder_BX123P38</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Single-cell battery"/>
+      <property name="ki_keywords" value="battery cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05920ed9-fce9-4375-8eb2-bea28639afe1</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7643f48a-ae60-4769-8a3a-1639c560a27c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6449c2e8-31ae-430b-80f2-94603859e720</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.33u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2fb2010-96bd-44d0-adb4-ae290b160da5</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>2.2u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0378f001-2b31-42a1-94d6-fab868097a79</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcc60bf3-a9ac-4537-946c-801820aa274f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>220p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a01742eb-570c-4059-95f2-be190a4a995d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f34225d-323d-4d9e-81ca-0dc45375b5a7</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>220p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026bd34e-ca4b-4d2d-aa27-52382e13e410</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>NJM2845DL1-33-TE1</value>
+      <footprint>01_AddLibrary:TO-252-3-L1</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/2449786P</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">New Japan Radio</field>
+        <field name="Manufacturer_Part_Number">NJM2845DL1-33-TE1</field>
+        <field name="RS Part Number">2449786P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/2449786P</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="NJM2845DL1-33-TE1" description="LDO Voltage Regulators LDO w/On/Off Cntrl"/>
+      <property name="Height" value=""/>
+      <property name="RS Part Number" value="2449786P"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/2449786P"/>
+      <property name="Manufacturer_Name" value="New Japan Radio"/>
+      <property name="Manufacturer_Part_Number" value="NJM2845DL1-33-TE1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="LDO Voltage Regulators LDO w/On/Off Cntrl"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d16cb81-643f-4d11-ae9a-57d9d3746ee4</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>TB6608FNG_O,EL_</value>
+      <footprint>01_AddLibrary:SOP65P640X160-20N</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/docget.jsp?did=11053&amp;prodName=TB6608FNG</datasheet>
+      <fields>
+        <field name="Height">1.6</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TB6608FNG(O,EL)</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="TB6608FNG_O,EL_" description="Motor / Motion / Ignition Controllers &amp; Drivers Stepping Motor Driver"/>
+      <property name="Height" value="1.6"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Toshiba"/>
+      <property name="Manufacturer_Part_Number" value="TB6608FNG(O,EL)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Motor / Motion / Ignition Controllers &amp; Drivers Stepping Motor Driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69172ae2-b770-4215-8098-5ed9b4a63ea7</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>TB6608FNG_O,EL_</value>
+      <footprint>01_AddLibrary:SOP65P640X160-20N</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/docget.jsp?did=11053&amp;prodName=TB6608FNG</datasheet>
+      <fields>
+        <field name="Height">1.6</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TB6608FNG(O,EL)</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="TB6608FNG_O,EL_" description="Motor / Motion / Ignition Controllers &amp; Drivers Stepping Motor Driver"/>
+      <property name="Height" value="1.6"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Toshiba"/>
+      <property name="Manufacturer_Part_Number" value="TB6608FNG(O,EL)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Motor / Motion / Ignition Controllers &amp; Drivers Stepping Motor Driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55c29aee-e7fa-4837-8883-38d59d9022fd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>S4B-XH-A-1_LF__SN_</value>
+      <footprint>01_AddLibrary:S4BXHA1LFSN</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/45bda73f655da0a850bf2ea3e93b2e86.pdf</datasheet>
+      <fields>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">JST (JAPAN SOLDERLESS TERMINALS)</field>
+        <field name="Manufacturer_Part_Number">S4B-XH-A-1(LF)(SN)</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="S4B-XH-A-1_LF__SN_" description="CONN HEADER R/A 4POS 2.5MM"/>
+      <property name="Height" value="6.1"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="JST (JAPAN SOLDERLESS TERMINALS)"/>
+      <property name="Manufacturer_Part_Number" value="S4B-XH-A-1(LF)(SN)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="CONN HEADER R/A 4POS 2.5MM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c484b5e-fa45-4e0a-bee8-8f014b85715a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>S5B-XH-A-1_LF__SN_</value>
+      <footprint>01_AddLibrary:S5BXHA1LFSN</footprint>
+      <datasheet>http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</datasheet>
+      <fields>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">JST (JAPAN SOLDERLESS TERMINALS)</field>
+        <field name="Manufacturer_Part_Number">S5B-XH-A-1(LF)(SN)</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="S5B-XH-A-1_LF__SN_" description="CONN HEADER R/A 5POS 2.5MM"/>
+      <property name="Height" value="6.1"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="JST (JAPAN SOLDERLESS TERMINALS)"/>
+      <property name="Manufacturer_Part_Number" value="S5B-XH-A-1(LF)(SN)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="CONN HEADER R/A 5POS 2.5MM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db3ff038-f96f-4585-b01a-b56a5d96643a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>S4B-XH-A-1_LF__SN_</value>
+      <footprint>01_AddLibrary:S4BXHA1LFSN</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/45bda73f655da0a850bf2ea3e93b2e86.pdf</datasheet>
+      <fields>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">JST (JAPAN SOLDERLESS TERMINALS)</field>
+        <field name="Manufacturer_Part_Number">S4B-XH-A-1(LF)(SN)</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="S4B-XH-A-1_LF__SN_" description="CONN HEADER R/A 4POS 2.5MM"/>
+      <property name="Height" value="6.1"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="JST (JAPAN SOLDERLESS TERMINALS)"/>
+      <property name="Manufacturer_Part_Number" value="S4B-XH-A-1(LF)(SN)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="CONN HEADER R/A 4POS 2.5MM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69ea7aef-94f9-421b-b761-38f00b54a477</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>S4B-XH-A-1_LF__SN_</value>
+      <footprint>01_AddLibrary:S4BXHA1LFSN</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/45bda73f655da0a850bf2ea3e93b2e86.pdf</datasheet>
+      <fields>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">JST (JAPAN SOLDERLESS TERMINALS)</field>
+        <field name="Manufacturer_Part_Number">S4B-XH-A-1(LF)(SN)</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="S4B-XH-A-1_LF__SN_" description="CONN HEADER R/A 4POS 2.5MM"/>
+      <property name="Height" value="6.1"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="JST (JAPAN SOLDERLESS TERMINALS)"/>
+      <property name="Manufacturer_Part_Number" value="S4B-XH-A-1(LF)(SN)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="CONN HEADER R/A 4POS 2.5MM"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>214c0ee1-2c02-4ea5-909e-2eb9d0c2a43e</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>SML-E12P8WT86</value>
+      <footprint>01_AddLibrary:LEDC1608X36N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/84ce583dd15750dd00b5178de73e2c79.pdf</datasheet>
+      <fields>
+        <field name="Height">0.36</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SML-E12P8WT86</field>
+        <field name="RS Part Number">7526865</field>
+        <field name="RS Price/Stock">https://uk.rs-online.com/web/p/products/7526865</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="SML-E12P8WT86" description="Standard LEDs - SMD SMD Green 2.5-16 mcd"/>
+      <property name="Height" value="0.36"/>
+      <property name="RS Part Number" value="7526865"/>
+      <property name="RS Price/Stock" value="https://uk.rs-online.com/web/p/products/7526865"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="SML-E12P8WT86"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Standard LEDs - SMD SMD Green 2.5-16 mcd"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>046d9799-21cf-4e08-b890-06bf07ef1276</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRLML6402</value>
+      <footprint>01_AddLibrary:SOT95P237X112-3N</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/3958873</datasheet>
+      <fields>
+        <field name="Height">1.12</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRLML6402</field>
+        <field name="RS Part Number">3958873</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/3958873</field>
+      </fields>
+      <libsource lib="01_AddLibrary" part="IRLML6402" description="P-Channel MOSFET Transistor, 3.7 A, 20 V, 3-Pin SOT-23 International Rectifier IRLML6402"/>
+      <property name="Height" value="1.12"/>
+      <property name="RS Part Number" value="3958873"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/3958873"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IRLML6402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="P-Channel MOSFET Transistor, 3.7 A, 20 V, 3-Pin SOT-23 International Rectifier IRLML6402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4271626-bb42-4c6b-a410-296b29dca82b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48b8e1f7-9724-4fd2-81da-9ad754fdc505</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d695c9bf-c570-4baf-880a-9e1f433c90d1</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2.2</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b474290-b357-4b94-a0b3-e2f071c0b3bb</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.2</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91771bf9-83ab-4e6a-88c8-f1d7e4829818</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2.2</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f2a7047-909d-4870-8813-c8cc517b47db</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2.2</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ce31c4f-162b-4fd2-b674-3d5bc947bcc8</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_OTAX-Toggle</value>
+      <footprint>01_AddLibrary:IS1245TG</footprint>
+      <libsource lib="00_KBD_MyFavorite" part="SW_OTAX-Toggle" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="009_PLEN5StackScooter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2430c2da-f274-4a21-871d-af12fa259d4a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="00_KBD_MyFavorite" part="SW_OTAX-Toggle">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_OTAX-Toggle</field>
+        <field name="Footprint">00_KBD_MyFavorite:SW_OTAX-Toggle</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="01_AddLibrary" part="IRLML6402">
+      <description>P-Channel MOSFET Transistor, 3.7 A, 20 V, 3-Pin SOT-23 International Rectifier IRLML6402</description>
+      <docs>http://uk.rs-online.com/web/p/products/3958873</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRLML6402</field>
+        <field name="Footprint">01_AddLibrary:SOT95P237X112-3N</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/3958873</field>
+        <field name="Height">1.12</field>
+        <field name="RS Part Number">3958873</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/3958873</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IRLML6402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="01_AddLibrary" part="NJM2845DL1-33-TE1">
+      <description>LDO Voltage Regulators LDO w/On/Off Cntrl</description>
+      <docs>http://uk.rs-online.com/web/p/products/2449786P</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">NJM2845DL1-33-TE1</field>
+        <field name="Footprint">01_AddLibrary:TO-252-3-L1</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/2449786P</field>
+        <field name="RS Part Number">2449786P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/2449786P</field>
+        <field name="Manufacturer_Name">New Japan Radio</field>
+        <field name="Manufacturer_Part_Number">NJM2845DL1-33-TE1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="passive"/>
+        <pin num="2" name="VOUT" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="01_AddLibrary" part="S4B-XH-A-1_LF__SN_">
+      <description>CONN HEADER R/A 4POS 2.5MM</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/45bda73f655da0a850bf2ea3e93b2e86.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">S4B-XH-A-1_LF__SN_</field>
+        <field name="Footprint">01_AddLibrary:S4BXHA1LFSN</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/45bda73f655da0a850bf2ea3e93b2e86.pdf</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">JST (JAPAN SOLDERLESS TERMINALS)</field>
+        <field name="Manufacturer_Part_Number">S4B-XH-A-1(LF)(SN)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="01_AddLibrary" part="S5B-XH-A-1_LF__SN_">
+      <description>CONN HEADER R/A 5POS 2.5MM</description>
+      <docs>http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">S5B-XH-A-1_LF__SN_</field>
+        <field name="Footprint">01_AddLibrary:S5BXHA1LFSN</field>
+        <field name="Datasheet">http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">JST (JAPAN SOLDERLESS TERMINALS)</field>
+        <field name="Manufacturer_Part_Number">S5B-XH-A-1(LF)(SN)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="01_AddLibrary" part="SML-E12P8WT86">
+      <description>Standard LEDs - SMD SMD Green 2.5-16 mcd</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/84ce583dd15750dd00b5178de73e2c79.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">SML-E12P8WT86</field>
+        <field name="Footprint">01_AddLibrary:LEDC1608X36N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/84ce583dd15750dd00b5178de73e2c79.pdf</field>
+        <field name="Height">0.36</field>
+        <field name="RS Part Number">7526865</field>
+        <field name="RS Price/Stock">https://uk.rs-online.com/web/p/products/7526865</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">SML-E12P8WT86</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="01_AddLibrary" part="TB6608FNG_O,EL_">
+      <description>Motor / Motion / Ignition Controllers &amp; Drivers Stepping Motor Driver</description>
+      <docs>https://toshiba.semicon-storage.com/info/docget.jsp?did=11053&amp;prodName=TB6608FNG</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TB6608FNG_O,EL_</field>
+        <field name="Footprint">01_AddLibrary:SOP65P640X160-20N</field>
+        <field name="Datasheet">https://toshiba.semicon-storage.com/info/docget.jsp?did=11053&amp;prodName=TB6608FNG</field>
+        <field name="Height">1.6</field>
+        <field name="Manufacturer_Name">Toshiba</field>
+        <field name="Manufacturer_Part_Number">TB6608FNG(O,EL)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="passive"/>
+        <pin num="2" name="STBY" type="passive"/>
+        <pin num="3" name="OSC" type="passive"/>
+        <pin num="4" name="M1" type="passive"/>
+        <pin num="5" name="M2" type="passive"/>
+        <pin num="6" name="VM" type="passive"/>
+        <pin num="7" name="CW/CCW" type="passive"/>
+        <pin num="8" name="BO2" type="passive"/>
+        <pin num="9" name="RFB" type="passive"/>
+        <pin num="10" name="BO1" type="passive"/>
+        <pin num="11" name="AO2" type="passive"/>
+        <pin num="12" name="RFA" type="passive"/>
+        <pin num="13" name="AO1" type="passive"/>
+        <pin num="14" name="RESET" type="passive"/>
+        <pin num="15" name="GND" type="passive"/>
+        <pin num="16" name="~{MO}" type="passive"/>
+        <pin num="17" name="TQ" type="passive"/>
+        <pin num="18" name="DCY" type="passive"/>
+        <pin num="19" name="ENABLE" type="passive"/>
+        <pin num="20" name="CK" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="00_KBD_MyFavorite">
+      <uri>D:\ElectronicCircuit\Kicad_Lib/00_KBD_MyFavorite/00_KBD_MyFavorite.kicad_sym</uri>
+    </library>
+    <library logical="01_AddLibrary">
+      <uri>D:\ElectronicCircuit\Kicad_Lib/PCBL/SamacSys_Parts.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="VOUT" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC2" pin="19" pinfunction="ENABLE" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="STBY" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="M1" pintype="passive"/>
+      <node ref="IC3" pin="1" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC3" pin="19" pinfunction="ENABLE" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="STBY" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="M1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="+BATT">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="IC2" pin="6" pinfunction="VM" pintype="passive"/>
+      <node ref="IC3" pin="6" pinfunction="VM" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/Power">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Clock_1">
+      <node ref="IC2" pin="20" pinfunction="CK" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Clock_2">
+      <node ref="IC3" pin="20" pinfunction="CK" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="6" name="Direction_1">
+      <node ref="IC2" pin="7" pinfunction="CW/CCW" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="7" name="Direction_2">
+      <node ref="IC3" pin="7" pinfunction="CW/CCW" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="M2" pintype="passive"/>
+      <node ref="IC3" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="IC3" pin="5" pinfunction="M2" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="MotorA1">
+      <node ref="IC2" pin="13" pinfunction="AO1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="MotorA2">
+      <node ref="IC2" pin="11" pinfunction="AO2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="MotorA3">
+      <node ref="IC3" pin="13" pinfunction="AO1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="MotorA4">
+      <node ref="IC3" pin="11" pinfunction="AO2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="MotorB1">
+      <node ref="IC2" pin="10" pinfunction="BO1" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="14" name="MotorB2">
+      <node ref="IC2" pin="8" pinfunction="BO2" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="15" name="MotorB3">
+      <node ref="IC3" pin="10" pinfunction="BO1" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="16" name="MotorB4">
+      <node ref="IC3" pin="8" pinfunction="BO2" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(IC2-OSC)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="OSC" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(IC2-RFA)">
+      <node ref="IC2" pin="12" pinfunction="RFA" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(IC2-RFB)">
+      <node ref="IC2" pin="9" pinfunction="RFB" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(IC3-OSC)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="3" pinfunction="OSC" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(IC3-RFA)">
+      <node ref="IC3" pin="12" pinfunction="RFA" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(IC3-RFB)">
+      <node ref="IC3" pin="9" pinfunction="RFB" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(LED1-A)">
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+    </net>
+    <net code="25" name="Reset_1">
+      <node ref="IC2" pin="14" pinfunction="RESET" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Reset_2">
+      <node ref="IC3" pin="14" pinfunction="RESET" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(IC2-DCY-Pad18)">
+      <node ref="IC2" pin="18" pinfunction="DCY" pintype="passive+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(IC2-TQ-Pad17)">
+      <node ref="IC2" pin="17" pinfunction="TQ" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(IC2-~{MO}-Pad16)">
+      <node ref="IC2" pin="16" pinfunction="~{MO}" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(IC3-DCY-Pad18)">
+      <node ref="IC3" pin="18" pinfunction="DCY" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(IC3-TQ-Pad17)">
+      <node ref="IC3" pin="17" pinfunction="TQ" pintype="passive+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(IC3-~{MO}-Pad16)">
+      <node ref="IC3" pin="16" pinfunction="~{MO}" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(SW1-Pad1)">
+      <node ref="SW1" pin="1" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
